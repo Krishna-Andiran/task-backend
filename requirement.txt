@@ -1,7 +1,10 @@
 fastapi
 sqlalchemy
-uvicorn
+uvicorn[standard]
 psycopg2
 passlib
 python-jose
 python-multipart
+bcrypt
+websockets
+wsproto
